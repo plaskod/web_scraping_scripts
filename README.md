@@ -15,6 +15,12 @@ Source: https://beautiful-soup-4.readthedocs.io/en/latest/#improving-performance
 ### Further improvements to consider:  
 * Multithreading
 * Running as persistent session  
-* take into account dynamic websites  
+* handling dynamic/JavaScript websites
+
+## (On-going) Metaculus web crawling and scraping to extract:
+* questions and predictions data
+* comments
+
+Using docker+splash v3.5 with Scrapy
 
 
