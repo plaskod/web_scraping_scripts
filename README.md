@@ -1,6 +1,9 @@
 # Web scraping scripts
 
-## Amazon web scraping scripts to extract:
+## Amazon web scraping scripts
+
+### Motivation  
+Extracting
 * product information, descriptions, price, rating  
 * product reviews
 
@@ -17,7 +20,10 @@ Source: https://beautiful-soup-4.readthedocs.io/en/latest/#improving-performance
 * Running as persistent session  
 * handling dynamic/JavaScript websites
 
-## (On-going) Metaculus web crawling and scraping to extract:
+## (On-going) Metaculus web crawling and scraping   
+
+### Motivation
+Extracting:  
 * questions and predictions data
 * comments
 
