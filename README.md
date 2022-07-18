@@ -14,7 +14,6 @@ Using BeautifulSoup
 Default html parser in BeautifulSoup is written in Python and exhibits slow performance that most likely will be troublesome in scaling. There small changes that make BeautifulSoup faster: 
 * Using lxml - an XML and HTML parser https://lxml.de/
 * Using cchardet - an universal character encoding detector
-* Creating sessions for requests
 
 Source: https://beautiful-soup-4.readthedocs.io/en/latest/#improving-performance 
 
