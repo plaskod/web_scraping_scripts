@@ -6,7 +6,7 @@
 Extracting:
 * product information, descriptions, price, rating  
 * product reviews
-for product sentiment analysis using huggingface transformer: roBERTa-large https://huggingface.co/siebert/sentiment-roberta-large-english
+from https://www.amazon.com/ for product sentiment analysis using huggingface transformer: roBERTa-large https://huggingface.co/siebert/sentiment-roberta-large-english
 
 Using BeautifulSoup
 
@@ -28,8 +28,8 @@ Source: https://beautiful-soup-4.readthedocs.io/en/latest/#improving-performance
 Extracting:  
 * questions and predictions data
 * comments
-for relationship extraction, information retrieval of similar articles, statistical analysis of the predictions data  
+from https://www.metaculus.com/questions/ for relationship extraction, information retrieval of similar articles, statistical analysis of the predictions data  
 
-Using docker+splash v3.5 with Scrapy
+Using docker+splash v3.5 with Scrapy to handle dynamic websites
 
 
