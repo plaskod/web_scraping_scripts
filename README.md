@@ -3,9 +3,12 @@
 ## Amazon web scraping scripts
 
 ### Motivation  
-Extracting
+Extracting:
 * product information, descriptions, price, rating  
 * product reviews
+for product sentiment analysis using huggingface transformer: roBERTa-large https://huggingface.co/siebert/sentiment-roberta-large-english
+
+Using BeautifulSoup
 
 ### Perfomance considerations taken into account:
 Default html parser in BeautifulSoup is written in Python and exhibits slow performance that most likely will be troublesome in scaling. There small changes that make BeautifulSoup faster: 
@@ -26,6 +29,7 @@ Source: https://beautiful-soup-4.readthedocs.io/en/latest/#improving-performance
 Extracting:  
 * questions and predictions data
 * comments
+for relationship extraction, information retrieval of similar articles, statistical analysis of the predictions data  
 
 Using docker+splash v3.5 with Scrapy
 
