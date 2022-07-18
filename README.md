@@ -30,6 +30,6 @@ Extracting:
 * comments
 from https://www.metaculus.com/questions/ for relationship extraction, information retrieval of similar articles, statistical analysis of the predictions data  
 
-Using docker+splash v3.5 with Scrapy to handle dynamic websites
+Using docker+splash v3.5 with Scrapy to handle dynamic websites. ATM mostly using scrapy shell  
 
 
